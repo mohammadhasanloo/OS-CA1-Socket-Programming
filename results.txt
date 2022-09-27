@@ -1,0 +1,108 @@
+x o 3
+x o 6
+x 8 9
+
+x x x
+o o 6
+7 8 9
+
+x x o
+x o 6
+o 8 9
+
+x x o
+o x o
+7 x 9
+
+x 2 o
+4 x o
+7 8 x
+
+x o o
+4 x 6
+7 8 x
+
+o x o
+x o x
+x o x
+
+x o 3
+x o 6
+x 8 9
+
+x 2 3
+x o o
+x 8 9
+
+x o 3
+x o 6
+x 8 9
+
+x x x
+o o 6
+7 8 9
+
+o x x
+o o x
+x o x
+
+x x o
+o o x
+x o x
+
+x o 3
+x o 6
+x 8 9
+
+x o x
+x o 6
+7 o 9
+
+x o x
+x o 6
+7 o 9
+
+x o x
+x o 6
+7 o 9
+
+x x o
+x o o
+x 8 9
+
+x x o
+o x o
+7 8 x
+
+x x o
+4 x o
+7 o x
+
+x x o
+o o x
+o 8 x
+
+x x o
+o o x
+x o x
+
+o x x
+x o x
+o o x
+
+o x o
+x x o
+x o x
+
+o x x
+o o x
+7 x o
+
+o x x
+x x o
+o o x
+
+x x x
+o o 6
+7 8 9
+
